@@ -1,0 +1,8 @@
+#include <stdio.h>:
+int main(void){
+float num; 
+num=17.873;
+printf("num = %5.3f", num);
+
+return 0;
+}

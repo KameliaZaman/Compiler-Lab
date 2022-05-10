@@ -1,0 +1,10 @@
+#include <stdio.h>:
+int main(void){
+float num; // declaring a float variable
+/* We can assign value to our variable like this */
+num=17.873;
+printf("num = %5.3f", num);
+/* this is a part of 
+c tutorial basic section*/
+return 0;
+}
